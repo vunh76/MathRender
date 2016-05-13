@@ -1,0 +1,14 @@
+SCC = This is a Source Code Control file
+
+[MathEqu.vbp]
+SCC_Aux_Path =E:\VB\VSSData,
+SCC_Project_Name ="$/MathEqu", BAAAAAAA
+[EquTest.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+[MathEQ.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>
+[TestOcx.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>

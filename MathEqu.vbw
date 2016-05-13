@@ -1,0 +1,16 @@
+modAPIs = 0, 0, 0, 0, C
+modHelper = 22, 22, 329, 368, 
+clsBox = 0, 0, 0, 0, C
+clsBracket = 0, 0, 0, 0, C
+clsFraction = 0, 0, 0, 0, C
+clsOver = 0, 0, 0, 0, C
+clsPower = 0, 0, 0, 0, C
+clsRoot = 0, 0, 0, 0, C
+clsSubscript = 0, 0, 0, 0, C
+clsText = 0, 0, 0, 0, C
+clsConcat = 0, 0, 0, 0, C
+ctlMathDraw = 44, 44, 351, 390, , 66, 66, 373, 412, C
+clsISPU = 0, 0, 0, 0, C
+clsMatrix = 0, 0, 0, 0, C
+clsEquations = 0, 0, 0, 0, C
+clsSubSup = 0, 0, 0, 0, C
